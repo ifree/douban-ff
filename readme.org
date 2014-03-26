@@ -1,0 +1,18 @@
+emacs client for [[http://douban.fm][doubanfm]] .
+
+* requirement
+
+** firefox
+   Thanks to ff's extremely extensible, so I can customize it very easy.
+
+** [[https://github.com/bard/mozrepl][moz-repl]]
+   A firefox extension that enables emacs to interact with.
+
+** [[http://www.vimperator.org/vimperator][vimperator]] (optional
+   This is a powerful firefox extension. see also vimperator's [[https://gist.github.com/avendael/7028513][emacs key schema]]
+
+* setup
+  - add init-firefox.el to your load-path, install moz-repl.
+  - install doubanfm.js in vimperator's plugin directory
+  - start moz-repl
+  - have fun!

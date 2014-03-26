@@ -1,0 +1,1 @@
+/Users/ifree/.vimperator/plugin/doubanfm.js

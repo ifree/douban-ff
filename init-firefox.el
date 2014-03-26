@@ -1,0 +1,1 @@
+/Users/ifree/.emacs.d/lisp/init-firefox.el
